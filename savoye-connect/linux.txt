@@ -1,0 +1,3 @@
+version=8.9.13
+path=savoye-connect/Linux/savoye-connect.deb
+sha256=8452bed6eb0081b6538f45f7746b9965e88f325a44e38ab270d17985562d561d

@@ -1,0 +1,29 @@
+{
+  "schema": "savoye.releases/1",
+  "apps": {
+    "savoye-connect": {
+      "files": {
+        "windows": {
+          "version": "8.9.13",
+          "path": "savoye-connect/Windows/Savoye Connect Setup.exe",
+          "sha256": "f2089175a4825183b1705433bf2a90668c6a7ee0d047acabc347d3af8f007bf7",
+          "size": 17040687
+        },
+        "linux": {
+          "version": "8.9.13",
+          "path": "savoye-connect/Linux/savoye-connect.deb",
+          "sha256": "8452bed6eb0081b6538f45f7746b9965e88f325a44e38ab270d17985562d561d",
+          "size": 810612
+        },
+        "macos": {
+          "version": "8.9.13",
+          "path": "savoye-connect/Mac/Savoye Connect.dmg",
+          "sha256": "cfae82e72191c135c3d1a285bcc5598823f31ab825cdd4c83a926d376278ee22",
+          "size": 25780058
+        }
+      },
+      "version": "8.9.13"
+    }
+  },
+  "built_from": "cdcc16b"
+}
