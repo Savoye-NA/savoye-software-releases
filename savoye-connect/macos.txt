@@ -1,3 +1,3 @@
-version=8.9.14
+version=8.9.15
 path=savoye-connect/Mac/Savoye Connect.dmg
-sha256=c724436b6f4630180b1d4aa679c2cbbeff13c6ae862bf464a3647c4f5768dfad
+sha256=b2eb33da22038d84ee6e864c9ca8e8b9564ff111741eedc208f7f442991d20d2

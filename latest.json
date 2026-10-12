@@ -4,27 +4,33 @@
     "savoye-connect": {
       "files": {
         "windows": {
-          "version": "8.9.14",
+          "version": "8.9.15",
           "path": "savoye-connect/Windows/Savoye Connect Setup.exe",
-          "sha256": "4493fcde6bc970e2c361258754bcafbbd946705842463f90a8b7651df281e58a",
-          "size": 17334466
+          "sha256": "39298b3d0e5acce76d532fd70c305c13ff517053f702923419b1bcb4078a28bc",
+          "size": 17384738
         },
         "linux": {
-          "version": "8.9.14",
+          "version": "8.9.15",
           "path": "savoye-connect/Linux/savoye-connect.deb",
-          "sha256": "d56ed872cf7b43c9452fe048b723c45ec247f6fac4187bf138ebe45a5b8c9a72",
-          "size": 1051704
+          "sha256": "3088d1327385895c869689bdb1fc1b672743aa6a3a947551177a13fdb8a0e5e5",
+          "size": 1121164
         },
         "macos": {
-          "version": "8.9.14",
+          "version": "8.9.15",
           "path": "savoye-connect/Mac/Savoye Connect.dmg",
-          "sha256": "c724436b6f4630180b1d4aa679c2cbbeff13c6ae862bf464a3647c4f5768dfad",
-          "size": 26122412
+          "sha256": "b2eb33da22038d84ee6e864c9ca8e8b9564ff111741eedc208f7f442991d20d2",
+          "size": 26193380
         }
       },
-      "version": "8.9.14",
+      "version": "8.9.15",
       "history": {
         "windows": [
+          {
+            "version": "8.9.15",
+            "path": "savoye-connect/Windows/versions/8.9.15/Savoye Connect Setup.exe",
+            "sha256": "39298b3d0e5acce76d532fd70c305c13ff517053f702923419b1bcb4078a28bc",
+            "size": 17384738
+          },
           {
             "version": "8.9.14",
             "path": "savoye-connect/Windows/versions/8.9.14/Savoye Connect Setup.exe",
@@ -40,6 +46,12 @@
         ],
         "linux": [
           {
+            "version": "8.9.15",
+            "path": "savoye-connect/Linux/versions/8.9.15/savoye-connect.deb",
+            "sha256": "3088d1327385895c869689bdb1fc1b672743aa6a3a947551177a13fdb8a0e5e5",
+            "size": 1121164
+          },
+          {
             "version": "8.9.14",
             "path": "savoye-connect/Linux/versions/8.9.14/savoye-connect.deb",
             "sha256": "d56ed872cf7b43c9452fe048b723c45ec247f6fac4187bf138ebe45a5b8c9a72",
@@ -53,6 +65,12 @@
           }
         ],
         "macos": [
+          {
+            "version": "8.9.15",
+            "path": "savoye-connect/Mac/versions/8.9.15/Savoye Connect.dmg",
+            "sha256": "b2eb33da22038d84ee6e864c9ca8e8b9564ff111741eedc208f7f442991d20d2",
+            "size": 26193380
+          },
           {
             "version": "8.9.14",
             "path": "savoye-connect/Mac/versions/8.9.14/Savoye Connect.dmg",
@@ -69,5 +87,5 @@
       }
     }
   },
-  "built_from": "5456749"
+  "built_from": "0babcd1"
 }
