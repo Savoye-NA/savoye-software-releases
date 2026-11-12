@@ -1,3 +1,3 @@
-version=8.9.15
+version=8.9.16
 path=savoye-connect/Windows/Savoye Connect Setup.exe
-sha256=39298b3d0e5acce76d532fd70c305c13ff517053f702923419b1bcb4078a28bc
+sha256=0bca56bf1ef59bd45eae4bcaf6af7d1ffa65b210232140999090691bc0a4c754
